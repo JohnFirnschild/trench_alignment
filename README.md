@@ -1,10 +1,8 @@
-# Welcome to pure python GitHub repo
+# Welcome to Trench Alignment GitHub repo
 
 This is a collection of Python scripts we are utilizing to update the Span layer with the Level3 Trench data.  
 
-These are just some links to a different page.  We'll fix this later:
-
-### Python Scripts
+### Span Alignment Walk Through
 
 - [Step 1: Import the required Libraries](https://github.com/JohnFirnschild/trench_alignment/blob/main/required_libraries.py)
 - [Step 2: Display Stats](https://github.com/JohnFirnschild/trench_alignment/blob/main/Display_Stats.py)
