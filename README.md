@@ -1,8 +1,8 @@
 # Welcome to pure python GitHub repo
 
-This is a collection of Python scripts I am working on that do not rely on ArcPy.
+This is a collection of Python scripts we are utilizing to update the Span layer with the Level3 Trench data.  
 
-Additions to this repo include the following:
+These are just some links to a different page.  We'll fix this later:
 
 ### Python Scripts
 
