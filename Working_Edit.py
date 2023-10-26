@@ -13,6 +13,9 @@ so you can easily manipulate the specific object from GIS_EDIT
 while keeping the map as read only for the most part.
 
 """
+import required_libraries
+
+# rest of your code goes here
 # Track overall time
 start_time = time.time()
 
